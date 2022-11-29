@@ -1,4 +1,4 @@
-# A1 de Modelagem de Fenômenos Biológicos.
+# A2 de Modelagem de Fenômenos Biológicos.
 
 Dupla: Sofia Lakschevitz e Juliana Carrica
 
